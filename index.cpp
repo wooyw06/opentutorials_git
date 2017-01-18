@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 	cout << "마스터 ex" << endl;
+	cout << "마스터 ex2" << endl;
 	cout << "hello" << endl;
 	cout << "world" << endl;
 	cout << "!!!!" << endl;
