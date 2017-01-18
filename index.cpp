@@ -6,5 +6,6 @@ int main(){
 	cout << "world" << endl;
 	cout << "!!!!" << endl;
 	cout << "????" << endl;
+	cout << "»õ·Î¿î ex" << endl;
 	return 0;
 }
