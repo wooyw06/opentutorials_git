@@ -18,5 +18,6 @@ int main(){
 	cout << "ex2ex2" << endl;
 	cout << "ex3ex3" << endl;
 	cout << "sync master" << endl;
+	cout << "conflict remote1" << endl;
 	return 0;
 }
