@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+	cout << "원격저장소" << endl;
 	cout << "마스터 ex" << endl;
 	cout << "실험2 ex" << endl; 
 	cout << "마스터 ex2" << endl;
