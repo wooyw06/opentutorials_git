@@ -16,5 +16,6 @@ int main(){
 	cout << "exex" << endl;
 	cout << "ex2ex2" << endl;
 	cout << "ex3ex3" << endl;
+	cout << "sync master" << endl;
 	return 0;
 }
