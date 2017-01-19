@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+	cout << "pull remote" << endl;
 	cout << "push master" << endl;
 	cout << "원격저장소" << endl;
 	cout << "마스터 ex" << endl;
